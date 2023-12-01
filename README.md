@@ -29,3 +29,10 @@ require("bunt").highlight_search()
 ## dependencies
 
 `nvim-lua/plenary.nvim`
+
+## Planned features
+
+* allow to set priority
+* clear highlight
+* Drawing mode (`nvim_buf_add_highlight`)
+* Dump loadable definition of Highlights
